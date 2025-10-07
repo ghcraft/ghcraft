@@ -1,4 +1,4 @@
-Olá! Eu sou o Guilherme Santos
+Olá! Eu sou o Guilherme... 
 
 Estudante de Análise e Desenvolvimento de Sistemas na Anhembi Morumbi, com cursos complementares na Alura e experiência internacional na Inglaterra no estudo da língua inglesa.
 
