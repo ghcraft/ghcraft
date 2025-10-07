@@ -47,5 +47,5 @@ Meu foco é desenvolver soluções robustas e sustentáveis, com qualidade, esca
 💼 LinkedIn: www.linkedin.com/in/guilherme-henrique-4b7518337
 
 
-⭐ Sinta-se à vontade para explorar meus repositórios e trocar ideias!
-Vamos construir o futuro da tecnologia juntos 🚀
+Sinta-se à vontade para explorar meus repositórios e trocar ideias!
+Vamos construir o futuro da tecnologia juntos
