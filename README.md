@@ -35,7 +35,7 @@ Atualmente, estudo e aplico conceitos de **segurança ofensiva, análise de vuln
 |------------|--------------|
 | **Linguagens** | JavaScript • TypeScript • C |
 | **Front-end** | React • Next.js • TailwindCSS • HTML5 • CSS3 |
-| **Back-end** | Node.js • Express • REST APIs • SQL • MongoDB |
+| **Back-end** | Node.js • Express • REST APIs • Postgres |
 | **Cibersegurança** | OWASP • Pentest • Hardening • Secure Coding • Threat Modeling |
 | **Infraestrutura e DevOps** | Linux • Docker • CI/CD • Nginx • Cloud Deploy |
 
