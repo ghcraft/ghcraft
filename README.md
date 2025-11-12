@@ -1,93 +1,79 @@
-<h1 align="center">Guilherme Henrique</h1>
-<h2 align="center">Engenheiro de Software & Especialista em Cibersegurança</h2>
+<!-- HEADER -->
+<h1 align="center" style="font-size: 42px; font-weight: bold;">Guilherme Henrique</h1>
+<h3 align="center" style="font-weight: 400;">Engenheiro de Software</h3>
 
 <p align="center">
-  <a href="https://ghdev.tec.br" target="_blank">ghdev.tec.br</a> • 
+  <a href="https://ghdev.tec.br" target="_blank" style="margin-right: 10px;">ghdev.tec.br</a> • 
   <a href="mailto:seuemail@dominio.com">guihenrique.s@outlook.com</a>
 </p>
 
 ---
 
 <div align="center">
-  <b>Desenvolvo soluções seguras, escaláveis e de alta performance, unindo engenharia de software e cibersegurança.</b>
+  <h3 style="font-weight: 400; max-width: 800px;">
+    Desenvolvimento, segurança e engenharia de software com foco em arquitetura escalável, performance e proteção de dados.
+  </h3>
 </div>
 
 ---
 
-## Sobre Mim
+## Perfil Profissional
 
-Sou **Engenheiro de Software** com foco em desenvolvimento web, arquitetura de sistemas e segurança da informação.  
-Atuo desde o planejamento técnico até a entrega final, garantindo **qualidade, desempenho e segurança** em cada etapa.  
+Sou **Engenheiro de Software** com experiência em **desenvolvimento web full stack**, **infraestrutura Linux** e **cibersegurança aplicada**.  
+Meu trabalho une **engenharia de software**, **boas práticas de arquitetura** e **segurança da informação** para criar soluções confiáveis e de alta performance.
 
-Tenho domínio em **desenvolvimento full stack**, **infraestrutura Linux** e **cibersegurança aplicada** — com ênfase em código seguro, análise de vulnerabilidades e boas práticas de arquitetura.
-
-Minha abordagem combina engenharia, segurança e clareza:  
-> “Software bem projetado não é apenas funcional — é confiável, sustentável e preparado para evoluir.”
-
----
-
-## Áreas de Atuação
-
-| Área | Descrição |
-|------|------------|
-| **Engenharia de Software** | Arquitetura de sistemas, APIs, integrações e aplicações web completas. |
-| **Cibersegurança** | Análise de vulnerabilidades, testes de penetração e hardening de servidores. |
-| **Infraestrutura e DevOps** | Deploy em nuvem, CI/CD, Docker, Nginx e automação de processos. |
+Com uma abordagem baseada em clareza e estrutura, desenvolvo aplicações seguras e escaláveis, desde o backend até a interface final.  
+Atualmente, estudo e aplico conceitos de **segurança ofensiva, análise de vulnerabilidades e mitigação de riscos**.
 
 ---
 
 ## Competências Técnicas
 
-**Linguagens**  
-JavaScript • TypeScript • C  
+<div align="center">
 
-**Front-end**  
-React • Next.js • TailwindCSS • HTML5 • CSS3  
+| Categoria | Tecnologias |
+|------------|--------------|
+| **Linguagens** | JavaScript • TypeScript • C |
+| **Front-end** | React • Next.js • TailwindCSS • HTML5 • CSS3 |
+| **Back-end** | Node.js • Express • REST APIs • SQL • MongoDB |
+| **Cibersegurança** | OWASP • Pentest • Hardening • Secure Coding • Threat Modeling |
+| **Infraestrutura e DevOps** | Linux • Docker • CI/CD • Nginx • Cloud Deploy |
 
-**Back-end**  
-Node.js • Express • REST APIs • SQL • MongoDB  
-
-**Cibersegurança**  
-OWASP • Pentest • Hardening • Secure Coding • Monitoramento de Ameaças  
-
-**Infraestrutura**  
-Linux • Docker • Git • Nginx • CI/CD • Cloud Deploy  
+</div>
 
 ---
 
-## Filosofia Profissional
+## Abordagem e Filosofia
 
-Meu trabalho se baseia em três pilares:  
-1. **Qualidade técnica:** código limpo, modular e escalável.  
-2. **Segurança:** prevenção de vulnerabilidades e conformidade com boas práticas.  
-3. **Sustentabilidade:** soluções duradouras e facilmente mantidas ao longo do tempo.  
+> **“Código limpo, seguro e escalável é a base de qualquer sistema confiável.”**
 
-Busco constantemente evoluir como profissional, integrando tecnologia, engenharia e segurança para gerar impacto real.
+- **Segurança primeiro:** cada linha de código é pensada para evitar falhas e vulnerabilidades.  
+- **Arquitetura sólida:** foco em modularidade, desempenho e clareza.  
+- **Soluções sustentáveis:** software projetado para evoluir sem comprometer a base.  
 
----
-
-## Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|----------|------------|--------------|
-| [Sortify](https://github.com/ghcraft/sortify) | Ferramenta de organização e manipulação de listas e arrays. | JavaScript, Node.js |
-| [Pacman Game](https://github.com/ghcraft/pacman) | Recriação técnica do clássico Pac-Man, desenvolvida em C. | C |
-| [Password Hash Cracker C](https://github.com/ghcraft/password-hash-cracker-c) | Projeto experimental voltado à segurança e criptografia. | C, Segurança |
-
-Mais projetos e informações em **[ghdev.tec.br](https://ghdev.tec.br)**.
+Minha meta é transformar complexidade em clareza — sistemas que crescem sem perder estabilidade ou segurança.
 
 ---
 
-## Contato
+## Projetos Selecionados
 
-- Website: [ghdev.tec.br](https://ghdev.tec.br)  
-- LinkedIn: [linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/seu-linkedin)  
-- E-mail: guihenrique.s@outlook.com
+<div align="center">
+
+| Projeto | Descrição | Stack |
+|----------|------------|-------|
+| [Sortify](https://github.com/ghcraft/sortify) | Ferramenta para organização e manipulação de listas e arrays. | JavaScript, Node.js |
+| [Pacman Game](https://github.com/ghcraft/pacman) | Recriação técnica do jogo Pac-Man, desenvolvida em C. | C |
+| [Password Hash Cracker C](https://github.com/ghcraft/password-hash-cracker-c) | Projeto experimental de segurança e criptografia. | C, Segurança |
+
+</div>
+
+Mais projetos e cases em **[ghdev.tec.br](https://ghdev.tec.br)**.
 
 ---
 
-<p align="center">
-  <i>© 2025 Guilherme Henrique — Todos os direitos reservados.</i>
-</p>
+<div align="center">
+  <sub>© 2025 Guilherme Henrique — Todos os direitos reservados.</sub>
+</div>
+
 
 
