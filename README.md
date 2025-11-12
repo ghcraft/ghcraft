@@ -55,22 +55,6 @@ Minha meta é transformar complexidade em clareza — sistemas que crescem sem p
 
 ---
 
-## Projetos Selecionados
-
-<div align="center">
-
-| Projeto | Descrição | Stack |
-|----------|------------|-------|
-| [Sortify](https://github.com/ghcraft/sortify) | Ferramenta para organização e manipulação de listas e arrays. | JavaScript, Node.js |
-| [Pacman Game](https://github.com/ghcraft/pacman) | Recriação técnica do jogo Pac-Man, desenvolvida em C. | C |
-| [Password Hash Cracker C](https://github.com/ghcraft/password-hash-cracker-c) | Projeto experimental de segurança e criptografia. | C, Segurança |
-
-</div>
-
-Mais projetos e cases em **[ghdev.tec.br](https://ghdev.tec.br)**.
-
----
-
 <div align="center">
   <sub>© 2025 Guilherme Henrique — Todos os direitos reservados.</sub>
 </div>
